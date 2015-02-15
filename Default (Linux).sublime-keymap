@@ -1,0 +1,6 @@
+[
+  {"keys": ["ctrl+alt+m"], "command": "qm"},
+  { "keys": ["ctrl+alt+v"], "command": "qv" },
+  {"keys": ["ctrl+alt+c"], "command": "qc"},
+    {"keys": ["ctrl+alt+r"], "command": "grep"}
+]
